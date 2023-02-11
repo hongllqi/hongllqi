@@ -10,6 +10,8 @@ My name is Li and I'm a brazilian web developer passionate about technologies!
 <br><br>
 I'm also a full-time programming student at: <a href="https://www.betrybe.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/108018406/213615293-7710fe7c-46aa-48e8-a82d-2e0672848e0f.png" height="31" width="31" /></a>
 
+Check out my portfolio at [Hong Li's Web Portfolio](https://hongllqi.github.io/)!
+
 ### Technologies
 ![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white&color=E84F1D)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&color=blue)
